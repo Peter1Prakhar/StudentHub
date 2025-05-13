@@ -2,7 +2,7 @@
 
 A modern, responsive React application for managing student information with Firebase authentication.
 
-![StudentHub Dashboard]("/image.png")
+![StudentHub Dashboard](image.png)
 
 ## Features
 
